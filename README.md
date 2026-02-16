@@ -5,3 +5,4 @@
 # you need to follow the some rules when you creating branches
 #for EX:
 #your doing UC1 you need to create branch name feature/UC1
+# you need to create new feature branches w.r.t feature/UC(which use case you doing)
